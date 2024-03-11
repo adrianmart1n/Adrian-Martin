@@ -16,6 +16,7 @@ public class Student {
     public Student() {
         planner = new StudyPlanner();
         scanner = new Scanner(System.in);
+        //Adrian was here
     }
     
     /*
